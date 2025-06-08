@@ -2,36 +2,17 @@
 
 ## Abstract 
 <p> 
-  Now days, Heart disease is the most common disease. But, unfortunately the treatment of heart
-disease is somewhat costly that is not affordable by common man. Hence, we can reduce this
-problem in some amount just by predicting heart disease before it becomes dangerous
-using Heart Disease Prediction System Using Machine Learning and Data mining. If we can
-find out heart disease problem in early stages then it becomes very helpful for
-treatment. Machine Learning and Data Mining techniques are used for the construction
-of Heart Disease Prediction System. In healthcare biomedical field, there is large use of heath
-care data in the form of text, images, etc but, that data is hardly visited and is not mined. So,
-we can avoid this problem by introducing Heart Disease Prediction System. This system will
-help us reduce the costs and to enhance the quality treatment of heart patients. This system can
-able to identify complex problems and can able to take intelligent medical decisions. The
-system can predict likelihood of patients of getting heart problems by their profiles such as
-blood pressure, age, sex, cholesterol and blood sugar. Also, the performance will be compared
-by calculation of confusion matrix. This can help to calculate accuracy, precision, and recall.
-The overall system provides high performance and better accuracy. 
+ Heart disease is currently one of the most common and serious health conditions worldwide. Unfortunately, its treatment can be expensive and often unaffordable for the average person. However, this issue can be partially addressed by detecting heart disease at an early stage through a Heart Disease Prediction System powered by Machine Learning (ML) and Data Mining techniques.Early prediction of heart-related issues can significantly improve the chances of effective treatment and recovery. In the healthcare and biomedical domain, vast amounts of data—such as text records, medical images, and test results—are generated, but much of it remains underutilized. By implementing a Heart Disease Prediction System, we can analyze this data effectively to support early diagnosis and reduce treatment costs while improving care quality.This system leverages patient data such as age, sex, blood pressure, cholesterol levels, and blood sugar levels to assess the likelihood of developing heart disease. It can identify complex patterns in patient data and assist in making intelligent medical decisions. To evaluate the system’s performance, a confusion matrix is used, which enables the calculation of key metrics such as accuracy, precision, and recall.
+
+Overall, this Heart Disease Prediction System aims to deliver high performance, improved diagnostic accuracy, and cost-effective healthcare support. 
 </p>
 
 ## Introduction
 <p>
-  The health care industries collect huge amounts of data that contain some hidden information,
-which is useful for making effective decisions. For providing appropriate results and making
-effective decisions on data, some advanced data mining techniques are used. In this study, a
-Heart Disease Prediction System (HDPS) is developed using Naives Bayes and Decision Tree
-algorithms for predicting the risk level of heart disease. The system uses 13 medical parameters
-such as age, sex, blood pressure, cholesterol, and obesity for prediction. The HDPS predicts
-the likelihood of patients getting heart disease. It enables significant knowledge. E.g.
-Relationships between medical factors related to heart disease and patterns, to be established.
-We have employed the multilayer perceptron neural network with back propagation as the
-training algorithm. The obtained results have illustrated that the designed diagnostic system
-can effectively predict the risk level of heart diseases.
+  The healthcare industry generates vast amounts of data, much of which contains hidden patterns that can be valuable for making informed and effective decisions. To extract meaningful insights and provide accurate predictions, advanced data mining techniques are essential.In this study, a Heart Disease Prediction System (HDPS) has been developed using Naive Bayes and Decision Tree algorithms to assess the risk level of heart disease in individuals. The system analyzes 13 medical parameters, including age, sex, blood pressure, cholesterol, and obesity, to predict the likelihood of a patient developing heart disease.
+The HDPS not only offers risk predictions but also helps uncover significant relationships between medical factors and patterns associated with heart disease. To further enhance prediction accuracy, a Multilayer Perceptron (MLP) neural network with backpropagation is employed as a training algorithm.
+
+The experimental results demonstrate that the proposed diagnostic system can effectively predict heart disease risk levels, supporting early intervention and informed medical decision-making.
 </p>
 
 ### Aim
@@ -149,9 +130,7 @@ def prdict_heart_disease(list_data):
 ### For a detailed Report <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf">Click Here</a>
 
 
-## Demo Video
-For demo video 
-<a href="https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20005_ch_students_amrita_edu/ESuaLdQqmNdFjzSBcMiTpaABWPQ2kZWEwCJ53HsY3UdHHg">Click Here</a>
+
 
 ## Output Screen-shots
 When the application is runned then, a Welcome Page pops-up
@@ -175,4 +154,4 @@ If a user doesn't understand how to use the application then he can:
 To view registered Doctor information:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
 
-## NOTE: GitHub Pages is not working
+
