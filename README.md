@@ -70,26 +70,26 @@ the system and what all are the diseases predicted by the system.*
 
    
 - #### FrameWork:
-  - ![BOOTSTRAP]
-  - ![DJANGO])
+  - [BOOTSTRAP]
+  - [DJANGO])
 - #### Machine-Learning Algorithms:
   - <a href="https://en.wikipedia.org/wiki/Gradient_boosting">**GRADIENT BOOSTING ALGORITHM**</a>
   - <a href="https://en.wikipedia.org/wiki/Logistic_regression">**LOGISTIC REGRESSION**</a>
 - #### ML/DL:
-  - ![NumPy]
-  - ![Pandas]
-  - ![scikit-learn]
+  - [NumPy]
+  - [Pandas]
+  - [scikit-learn]
 - Database:
-  - ![PostreeSQL]
+  - [PostreeSQL]
 - #### Data-Set for training:
   - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
 - #### IDE:
-  - ![VS Code]
-  - ![pyCharm]
+  - [VS Code]
+  - [pyCharm]
 - #### OS used for testing:
-  - ![MacOS]
-  - ![Ubuntu]
-  - ![Windows
+  - [MacOS]
+  - [Ubuntu]
+  - [Windows
 
 ## Run Locally
 
