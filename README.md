@@ -81,8 +81,6 @@ the system and what all are the diseases predicted by the system.*
   - [scikit-learn]
 - Database:
   - [PostreeSQL]
-- #### Data-Set for training:
-  - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
 - #### IDE:
   - [VS Code]
   - [pyCharm]
